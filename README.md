@@ -6,4 +6,4 @@ Analyzed Chicago taxi dataset based from year 2019 to year 2022. Made some recom
 
 :bar_chart: Story Dashboard: https://lookerstudio.google.com/reporting/b7724c4c-7dfa-4bf9-9634-135ec97d00a9
 
-![Part-3 Data Visualization-15_page-0001](https://github.com/samiulabir201/Chicago-Taxi-Data-visualization/assets/78860039/57528f3b-6980-426b-95dd-c9c07ecb9d6d)
+![Story_Dashboard__Recommendations_for_Chicago_Taxi_Services_page-0001](https://github.com/samiulabir201/Chicago-Taxi-Data-visualization/assets/78860039/353df935-eb92-45c2-9016-3a1f27895907)
